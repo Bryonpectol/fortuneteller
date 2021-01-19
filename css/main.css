@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    background-color: cadetblue;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.li {
+    text-decoration: none;
+    margin: 1vh;
+    padding: 1vh;
+}
+
+#ranTotal {
+    text-align: center;
+}
