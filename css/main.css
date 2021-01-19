@@ -11,13 +11,23 @@ header {
 ul {
     display: flex;
     flex-direction: row;
-    text-decoration: none;
 }
 
 .li {
-    text-decoration: none;
+    list-style-type: none;
     margin: 1vh;
     padding: 1vh;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.li:hover {
+    background-color: darkred;
+    cursor: pointer;
+    color: white;
 }
 
 #ranTotal {

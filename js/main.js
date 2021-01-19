@@ -109,13 +109,13 @@ switch(FortRan) {
         Message = 'You and your significant other will go to Las Vegas, Nevada. There, you will play only a few rounds of Poker before you win the Jack Pot'
     break;
     case 3 :
-        Message = 'You will begin treatment for cancer which ultimately leads to a full recovery.'
+        Message = 'You will begin treatment for cancer which ultimately leads to a full recovery'
     break;
     case 4 :
-        Message = 'You will be the first person to successfully complete a pancreas transplant, you solved how to cure type 1 Diabetes and pancreatic cancer.'
+        Message = 'You will be the first person to successfully complete a pancreas transplant, you solved how to cure type 1 Diabetes and pancreatic cancer'
     break;
     case 5 :
-        Message = 'You will visit the Avatar Mountains in China, there you will recieve spiritual revelation.'
+        Message = 'You will visit the Avatar Mountains in China, there you will recieve spiritual revelation'
     break;
     default :
         Message = 'You will 1'
