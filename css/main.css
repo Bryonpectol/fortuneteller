@@ -32,4 +32,9 @@ a {
 
 #ranTotal {
     text-align: center;
+    margin-top: 45vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    font-size: 1.5rem;
+    font-family: Helvetica, sans-serif;
 }
